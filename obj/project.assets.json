@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zer0\\source\\repos\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Zer0\\Source\\Repos\\Zroeth\\Lab-3-Compresion-Huffman\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "C:\\Users\\Zer0\\source\\repos\\Lab3\\Lab3.csproj",
+      "projectPath": "C:\\Users\\Zer0\\Source\\Repos\\Zroeth\\Lab-3-Compresion-Huffman\\Lab3.csproj",
       "packagesPath": "C:\\Users\\Zer0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zer0\\source\\repos\\Lab3\\obj\\",
+      "outputPath": "C:\\Users\\Zer0\\Source\\Repos\\Zroeth\\Lab-3-Compresion-Huffman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Roaming\\NuGet\\NuGet.Config",
